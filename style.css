@@ -1,0 +1,16 @@
+body {
+    background-color: mediumturquoise;
+    color: darkmagenta;
+    font-family: "Abril Fatface", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+}
+
+button {
+    background-color: aqua;
+    color: darkmagenta;
+    font-family: "Abril Fatface", serif;
+}
